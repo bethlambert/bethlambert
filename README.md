@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bethlambert a seasoned enterprise pre-sales solution architect
 - 👀 I’m interested in learning and applying my AI and GenAI skills to practical use cases.
-- 🌱 I’m currently honing my technical skills ti develop and deploy search, chatbot and web application and knowledge bases
+- 🌱 I’m currently challenging myself to hone my technical skills through developing and deploying 3 POCs across 3 Cloud Services and/or platforms (1)Unifed Search, (2) chatbot w/ web applications and (3) Knowledge Management (RAGs)
 - 💞️ I’m looking to collaborate on keeping up to date with enterprise applications of AI / GenAI 
 - 📫 How to reach me bethlambert@visintovalue.ai
 
