@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on keeping up to date with enterprise applications of AI / GenAI 
 - 📫 How to reach me bethlambert@visintovalue.ai
 
-A pre-sales solution architect's portfolio should demonstrate a strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as other engineering roles, it's essential to showcase your ability to translate complex technical solutions into understandable business benefits.
+I have created this page to highlight my pre-sales solution architect's portfolio should demonstrate a strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as others, it's essential to showcase my ability to translate complex technical solutions into understandable business benefits.
 
 Key Focus Areas
 Solution Design and Architecture: Demonstrate your ability to create robust and scalable solutions.
 Business Acumen: Show how you align technology solutions with business objectives.
 Communication and Presentation Skills: Showcase your ability to communicate complex ideas effectively.
 
-What you will find 
+Key Projects & Materials
 solution-architectures: Contains reference architectures for different domains.
 Business-case studies: Contains customer case studies and analysis.
 technical-whitepapers: Contains whitepapers on various technical topics.
