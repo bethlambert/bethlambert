@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on keeping up to date with enterprise applications of AI / GenAI 
 - 📫 How to reach me bethlambert@visintovalue.ai
 
-I have created this page to demonstrate my strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as others, it's essential to leverage this forum to showcase my fifteen years of enterprise solution architect experience and keen ability to translate complex technical solutions into understandable business benefits.
+I have created this page to demonstrate my strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as others, this forum will help me showcase my fifteen years of enterprise solution architect experience and keen ability to translate complex technical solutions into understandable business benefits.
 
 Key Focus Areas
 - Solution Design and Architecture: Demonstrate your ability to create robust and scalable solutions.
