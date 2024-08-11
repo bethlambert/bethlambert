@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and applying my AI and GenAI skills to practical use cases.
 - 🌱 I’m currently challenging myself to hone my technical skills by developing and deploying 3 POCs across 3 Cloud Services and/or platforms:
      (1) Unifed Search; (2) Chatbot w/ Web Applications and (3) Knowledge Management (RAGs)
-- 💞️ I’m looking to collaborate on keeping up to date with enterprise AI / GenAI applications, services, and platforms.
+- 💞️ I’m looking to collaborate with others on enterprise AI / GenAI applications, services, and platforms.
 - 📫 How to reach me bethlambert@visintovalue.ai
 
 I have created this page to demonstrate my strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as others, this forum will help me showcase my fifteen years of enterprise solution architect experience and keen ability to translate complex technical solutions into understandable business benefits.
