@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning CI CD and DevOps in context to the Conversational AI
 - 💞️ I’m looking to collaborate on keeping up to date with enterprise applications of AI / GenAI 
 - 📫 How to reach me bethlambert@visintovalue.ai
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+
 
 <!---
 bethlambert/bethlambert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
