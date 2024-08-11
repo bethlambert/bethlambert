@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bethlambert a seasoned enterprise pre-sales solution architect
 - 👀 I’m interested in learning and applying my AI and GenAI skills to practical use cases.
 - 🌱 I’m currently challenging myself to hone my technical skills by developing and deploying 3 POCs across 3 Cloud Services and/or platforms:
--     (1) Unifed Search
+      (1) Unifed Search
 -     (2) Chatbot w/ Web Applications
 -     (3) Knowledge Management (RAGs)
 - 💞️ I’m looking to collaborate on keeping up to date with enterprise AI / GenAI applications, services, and platforms.
