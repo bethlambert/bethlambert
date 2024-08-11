@@ -11,6 +11,13 @@ Solution Design and Architecture: Demonstrate your ability to create robust and 
 Business Acumen: Show how you align technology solutions with business objectives.
 Communication and Presentation Skills: Showcase your ability to communicate complex ideas effectively.
 
+What you will find 
+solution-architectures: Contains reference architectures for different domains.
+Business-case studies: Contains customer case studies and analysis.
+technical-whitepapers: Contains whitepapers on various technical topics.
+presentations: Contains presentation decks for different audiences.
+demo-videos: Contains short demo videos.
+
 <!---
 bethlambert/bethlambert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
