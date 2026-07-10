@@ -1,25 +1,34 @@
-- 👋 Hi, I’m @bethlambert a seasoned enterprise pre-sales solution architect
-- 👀 I’m interested in learning and applying my AI and GenAI skills to practical use cases.
-- 🌱 I’m currently challenging myself to hone my technical skills by developing and deploying Salesforce Agentforce Agents
-- 💞️ I’m looking to collaborate with others on enterprise AI / GenAI applications, services, and platforms.
-- 📫 How to reach me bethlambert@visintovalue.ai
+### Hi, I'm Beth Lambert 👋
 
-I have created this page to demonstrate my strong blend of technical expertise, business acumen, and communication skills. While it might not be as code-heavy as others, this forum will help me showcase my fifteen years of enterprise solution architect experience and keen ability to translate complex technical solutions into understandable business benefits.
+I build and lead **forward-deployed engineering and technical GTM teams** that turn enterprise AI prototypes into production systems — with 15 years of enterprise solution architecture experience behind it.
 
-Key Focus Areas
-- AI Go-To-Market (GTM) strategy to drive revenue-generating or productive AI offerings 
-- Business Acumen: Show how you align technology solutions with business objectives.
-- Communication and Presentation Skills: Showcase your ability to communicate complex ideas effectively.
-- Solution Design and Architecture: Demonstrate your ability to create robust and scalable solutions.
+- 🧭 I lead the technical win on complex enterprise AI evaluations, and partner directly with sales and account leadership on shared revenue outcomes.
+- 👀 I'm focused on scaling **agentic AI** from prototype to production — architecture, deployment, and the operating playbooks that let a technical team scale with it.
+- 🌱 Currently building and deploying **Salesforce Agentforce** agents to keep my hands-on engineering skills sharp alongside my leadership work.
+- 💞️ Looking to collaborate on enterprise AI / GenAI applications, services, platforms, and the teams that deploy them.
+- 📫 Reach me: lambert.beth@gmail.com
 
-Key Projects & Materials
-- Solution Architectures: Contains reference architectures for different domains.
-- Business Case Studies: Contains customer case studies and analysis.
-- Technical Whitepapers: Contains whitepapers on various technical topics.
-- Presentations: Contains presentation decks for different audiences.
-- Demo Videos: Contains short demo videos.
+I created this page to show a blend of **technical depth, team leadership, and business acumen**. It may not be as code-heavy as some profiles — its job is to demonstrate how I translate complex technical solutions into production systems, revenue outcomes, and business value that senior stakeholders act on.
 
-<!---
-bethlambert/bethlambert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Key Focus Areas
+
+- **Technical Team Leadership** — hiring, coaching, and scaling forward-deployed / solutions engineering teams
+- **AI Go-To-Market (GTM) Strategy** — driving revenue-generating, production-grade AI offerings in partnership with sales leadership
+- **Agentic AI Architecture & Deployment** — designing and shipping production-ready agent systems, RAG pipelines, and human-in-the-loop governance
+- **Business Acumen** — aligning technology solutions with business objectives and executive priorities
+- **Communication & Technical Storytelling** — translating complex technical concepts for executive and cross-functional audiences
+- **Solution Design & Architecture** — building robust, scalable, enterprise-grade solutions
+
+---
+
+### Key Projects & Materials
+
+- **AI-Native Architecture** — frameworks and design patterns for production agentic systems
+- **Vision to Value** — Use Case to Value framework for prioritizing enterprise AI investments
+- **Safe to Scale** — Productivity J-Curve framework for de-risking AI adoption at scale
+- **Team & Delivery Playbooks** — hiring, onboarding, and delivery standards for scaling a technical GTM function
+- **How-To Guides & Videos** — presentation decks tailored to different technical and business audiences
+- **GTM Materials** — presentation decks supporting enterprise AI go-to-market motions
+
