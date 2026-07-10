@@ -62,7 +62,7 @@ Each build below is designed to prove the same thing from a different angle: I c
 **Languages & core:** Python, SQL, REST/JSON
 **Agentic AI:** Claude API (tool use, web search, code execution), MCP, agent loops, multi-agent orchestration
 **Platforms:** Salesforce Agentforce, Microsoft Copilot Studio, Microsoft Foundry
-**Low-code/no-code:** Flutter Flow, Xano, Terra
+**Low-code/no-code:** Flutter Flow, Xano, Terra, GitHub Spark,
 **Observability & trust layer:** tracing (LangSmith/Langfuse/OpenTelemetry), eval suites, guardrails, PII redaction
 **Deploy:** Docker, one cloud (AWS/GCP)
 
