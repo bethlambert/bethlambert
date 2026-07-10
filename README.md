@@ -8,7 +8,7 @@ I build and lead **forward-deployed engineering and technical GTM teams** that t
 
 - 🧭 I lead the technical win on complex enterprise AI evaluations, and partner directly with sales and account leadership on shared revenue outcomes.
 - 👀 I'm focused on scaling **agentic AI** from prototype to production — architecture, deployment, and the operating playbooks that let a technical team scale with it.
-- 🌱 Currently building and deploying **Salesforce Agentforce** **Anthropic Agent Loops** agents to keep my hands-on engineering skills sharp alongside my leadership work.
+- 🌱 Currently building and deploying **Salesforce Agentforce** and **Anthropic Agent Loops** agents to keep my hands-on engineering skills sharp alongside my leadership work.
 - 💞️ Looking to collaborate on enterprise AI / GenAI applications, services, platforms, and the teams that deploy them.
 - 📫 Reach me: lambert.beth@gmail.com
 
