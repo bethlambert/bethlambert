@@ -60,7 +60,7 @@ Each build below is designed to prove the same thing from a different angle: I c
 ## 🧠 Stack
 
 **Languages & core:** Python, SQL, REST/JSON
-**Agentic AI:** Claude API (tool use, web search, code execution), MCP, agent loops, multi-agent orchestration
+**AI/ Agentic AI:** Claude, Salesforce, Microsoft OpenAI/ Foundry, IBM WatsonX, AWS Bedrock & Sagemark, GCP Vertex AI (tool use, web search, code execution), MCP, agent loops, multi-agent orchestration
 **Platforms:** Salesforce Agentforce, Microsoft Copilot Studio, Microsoft Foundry
 **Low-code/no-code:** Flutter Flow, Xano, Terra, GitHub Spark,
 **Observability & trust layer:** tracing (LangSmith/Langfuse/OpenTelemetry), eval suites, guardrails, PII redaction
@@ -70,6 +70,6 @@ Each build below is designed to prove the same thing from a different angle: I c
 
 ## 🚧 Currently building
 
-Working a structured 6-month plan to deepen the agentic stack end to end — Python/RAG fundamentals → agent orchestration → observability/evals/guardrails → deployment → a flagship, fully-traced deployment. Progress logged and shipped here as each phase completes.
+Working a structured 6-month plan to deepen the agentic stack end to end build to ship motion across the latest tool — Build > Ship > Operate Autnomousagents using agentic fundamentals → agent orchestration → observability/evals/guardrails → deployment → a flagship, fully-traced deployment. Progress logged and shipped here as each phase completes.
 
 
