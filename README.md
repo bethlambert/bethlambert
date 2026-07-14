@@ -1,6 +1,6 @@
 ### Hi, I'm Beth Lambert 👋
 
-Forward Deployed Engineering leader with 15+ years scaling technical GTM and solutions architecture functions inside enterprise SaaS and Applied AI organizations — building the agentic systems while mitigating enterprise risk and the documenting the organizational design change and operational playbooks and delivery standards that let others build them too.
+Forward Deployed Engineering leader with 15+ years scaling technical GTM and E2E architecture functions inside enterprise organizations — building the agentic systems while mitigating enterprise risk and the documenting the organizational design change and operational playbooks and delivery standards that let others build them too.
 
 `Forward Deployed Engineering Leader` · `Technical GTM & AI Solutions Architecture` · `Team Building & Coaching` · `Player-Coach`
 
